@@ -76,11 +76,6 @@
       <li>تواصل سهل و واضح</li>
     </ul>
 
-    <h2>ليفورور ديال الخدمة</h2>
-    <div style="text-align:center;margin:15px 0;">
-      <img src="https://via.placeholder.com/300x300?text=Livreur" alt="Livreur" style="width:65%;max-width:280px;border-radius:12px;object-fit:cover;box-shadow:0 4px 10px rgba(0,0,0,0.15);"/>
-      <p style="margin-top:10px;font-size:18px;font-weight:bold;">عامل التوصيل</p>
-    </div>
 
     <h2>اتصل بينا</h2>
     <p>📞 الهاتف: <strong>0707662411</strong></p>
